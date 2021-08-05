@@ -8,6 +8,5 @@
 .idea
 .eclipse
 .vscode
-*.jar
-*.class
 bin
+build
