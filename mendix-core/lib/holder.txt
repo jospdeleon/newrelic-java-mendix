@@ -1,0 +1,8 @@
+Add these jars from your installation
+
+com.mendix.appcontainer.jar
+com.mendix.json.jar
+com.mendix.m2ee-api.jar
+com.mendix.public-api.jar
+commons-io-2.8.0.jar
+javax.servlet-api.servlet.jar
