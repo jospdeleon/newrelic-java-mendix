@@ -1,2 +1,2 @@
-rootProject.name = 'mendix-instrumentation'
+rootProject.name = 'newrelic-java-mendix'
 include 'mendix-core'
