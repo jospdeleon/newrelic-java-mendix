@@ -4,5 +4,6 @@ com.mendix.appcontainer.jar
 com.mendix.json.jar
 com.mendix.m2ee-api.jar
 com.mendix.public-api.jar
+com.mendix.webui.jar
 commons-io-2.8.0.jar
 javax.servlet-api.servlet.jar
